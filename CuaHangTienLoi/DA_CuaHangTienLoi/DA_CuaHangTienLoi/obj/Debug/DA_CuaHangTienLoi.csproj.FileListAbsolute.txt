@@ -1,0 +1,11 @@
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\bin\Debug\DA_CuaHangTienLoi.exe
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\bin\Debug\DA_CuaHangTienLoi.pdb
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.csprojResolveAssemblyReference.cache
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.Form1.resources
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.Properties.Resources.resources
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.csproj.GenerateResource.Cache
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.exe.licenses
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.exe
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.pdb
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.FormDangKy.resources
+D:\Hoc_Ki_2_Nam_3\PhatTrienPhanMem\CuaHangTienLoi\DA_CuaHangTienLoi\DA_CuaHangTienLoi\obj\Debug\DA_CuaHangTienLoi.FormLogin.resources
